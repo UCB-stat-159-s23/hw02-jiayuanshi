@@ -10,4 +10,6 @@ dependencies:
   - matplotlib=3.5
   - ipykernel
   - json
+  - json5=0.9.5
+  - jsonschema=4.16
 prefix: /home/jovyan/envs/ligo
